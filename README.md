@@ -1,16 +1,8 @@
-# untitled
+# Movie Deatils App
 
 A new Flutter project.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This App is built using flutter framework. Home Page consists of List of Movies with some details like Ratings, Name of the Movie etc. On clicking, it pushes a new page with details of that selected movie . <br />
+Details page includes poster, images, title, runtime, ratings, release date , awards and much more.
